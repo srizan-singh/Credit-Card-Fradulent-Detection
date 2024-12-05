@@ -8,7 +8,7 @@
   - Achieved high accuracy and precision to minimize false positives.  
 - **Technologies Used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib.  
 
-> 🚀 **Check out the project repository:** [Credit Card Fraud Detection](#)
+> 🚀 **Check out the project repository:** [Credit Card Fraud Detection](https://github.com/srizan-singh/Credit-Card-Fradulent-Detection?tab=readme-ov-file)
 > 
 ## ⚡ GitHub Stats  
 ![srizan-singh GitHub stats](https://github-readme-stats.vercel.app/api?username=srizan-singh&show_icons=true&theme=radical)  
