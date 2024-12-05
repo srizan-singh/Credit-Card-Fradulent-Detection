@@ -11,7 +11,7 @@
 > 🚀 **Check out the project repository:** [Credit Card Fraud Detection](#)
 > 
 ## ⚡ GitHub Stats  
-![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![srizan-singh GitHub stats](https://github-readme-stats.vercel.app/api?username=srizan-singh&show_icons=true&theme=radical)  
 
 ## 🔝 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srizan-singh&layout=compact&theme=radical)  
